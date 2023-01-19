@@ -19,8 +19,14 @@ public final class App {
         // HashMapExample h = new HashMapExample();
         // h.example01();
 
-        ConcurrentHashMapExample che = new ConcurrentHashMapExample();
-        che.example();
+        // ConcurrentHashMapExample che = new ConcurrentHashMapExample();
+        // che.example();
+
+        // LinkedListExample l = new LinkedListExample();
+        // l.example01();
+
+        StackExample s = new StackExample();
+        s.example();
 
     }
 }

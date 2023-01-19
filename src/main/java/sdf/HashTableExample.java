@@ -1,10 +1,8 @@
 package sdf;
 
 import java.io.Console;
-import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.Map;
-import java.util.*;
 
 public class HashTableExample {
     
@@ -39,9 +37,6 @@ public class HashTableExample {
         phones.clear();
 
         System.out.println("Total phone types: "+phones.size());
-        
-        
-        
         
     }
 }
